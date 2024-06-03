@@ -1,2 +1,4 @@
 # go-healthcheck
-tutorials
+
+
+- command run: go run . --domain google.com
